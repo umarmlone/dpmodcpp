@@ -1,1 +1,1 @@
-The code that creates the eager & lazy instance(on heap) is commented. As of now, the instance is created statically (Meyer's singleton).
+The code that creates the eager & lazy instance(on heap) is commented out. As of now, the instance is created statically (Meyer's singleton).
